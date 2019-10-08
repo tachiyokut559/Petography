@@ -3,12 +3,14 @@ h1{
     background: 7px aqua;
     font-size: 200px;
     text-align: center;
-    
 }
-//*we can have one css to control all project *//
-//*work on css for the rest of the knight *//
+
+/*we can have one css to control all project */
+/*work on css for the rest of the knight */
+
 body{
     background-image: url("Pictures/Tpaws.png");
+    
 
 }
 
