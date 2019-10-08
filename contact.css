@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+    border: 16px solid;
+}
+
+p{
+    background-color: white;
+    border: 7px dotted;
+}
