@@ -1,7 +1,7 @@
 h1{
     border: 7px black;
     background: 7px aqua;
-    font-size: 200px;
+    font-size: 120px;
     text-align: center;
 }
 
@@ -34,5 +34,21 @@ footer{
     font-size: 25%;
 }
 
+.gallery-h1{
+    border: 7px dotted black;
+    font-size: 125%;
+    background: 4px;
+}
+
+.form-group{
+    border: 7px  black;
+    background: 5px aqua;
+}
+
+
+.table-chart{
+    border: 8px black;
+    background: 4px black;
+}
 
 
